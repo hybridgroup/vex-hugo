@@ -221,7 +221,7 @@ a:active {
     .hero-area start
 --*/
 .hero-area {
-  height: 90vh;
+  height: 90%;
   display: flex;
   justify-content: center;
   align-items: center; }
